@@ -1,3 +1,4 @@
+--change the product image before executing into DB.
 INSERT INTO Product (Id, Name, Description, CategoryId, Price, Qty, Product_image, SKU) VALUES
 (1, 'Laptop X', 'High performance laptop', 1, 1200, 10, 'laptop_x_img.jpg', 'LX-001'),
 (2, 'Smartphone Z', 'Latest model smartphone', 2, 700, 15, 'smartphone_z_img.jpg', 'SMZ-002'),
